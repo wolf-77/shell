@@ -1,0 +1,12 @@
+[*] built in commands
+    [*] ls
+    [*] pwd
+    [*] cd
+    [*] cat
+    [*] mfile
+    [*] mdir
+    [*] btc
+    [*] hash
+    [*] clear
+
+[*] external commands
